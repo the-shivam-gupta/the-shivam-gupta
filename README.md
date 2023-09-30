@@ -1,7 +1,17 @@
-# Welcome to my GitHub Profile! 👋
+<div align="center">
+  <h1>Greetings! 👋</h1>
+  <p>Welcome to my GitHub profile. I'm here to code, learn, and collaborate. Let's build cool stuff together!</p>
+</div>
 
-[![GitHub followers](https://img.shields.io/github/followers/the-shivam-gupta?label=Followers&style=social)](https://github.com/the-shivam-gupta)
-[![GitHub stars](https://img.shields.io/github/stars/the-shivam-gupta?style=social)](https://github.com/the-shivam-gupta)
+<div align="center">
+   <a href="https://github.com/the-shivam-gupta">
+      <img src="https://img.shields.io/github/followers/the-shivam-gupta?label=Followers&style=social" alt="GitHub followers" />
+   </a>
+   <a href="https://github.com/the-shivam-gupta">
+      <img src="https://img.shields.io/github/stars/the-shivam-gupta?style=social" alt="GitHub stars" />
+   </a>
+</div>
+
 
 ## About Me
 
@@ -10,7 +20,6 @@ Hi there! I'm Shivam Gupta, a passionate developer and open-source enthusiast. I
 - 🔭 I’m currently working on [Portfolio](https://the-shivam-gupta.github.io/)
 - 🌱 I’m currently learning [python](https://github.com/the-shivam-gupta/learning-path)
 - 👯 I’m looking to collaborate on interesting projects.
-- 💬 Ask me about [Your Area of Expertise]
 
 ## Skills and Technologies
 <p align="left">
@@ -23,6 +32,13 @@ Hi there! I'm Shivam Gupta, a passionate developer and open-source enthusiast. I
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
+
+## Contributions and Open Source Involvement
+
+I'm actively involved in open-source projects and have contributed to several projects, including:
+
+- [Rupali Haldiya](https://www.linkshub.dev/) - Contributed by adding styles and also the missing card descrption.
+- [Priyanshu Maurya](https://aifusion.vercel.app/) - Collaborated on sorting the elements in the alphabetical order.
 
 
 ## Let's Connect!
