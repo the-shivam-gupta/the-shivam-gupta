@@ -11,6 +11,11 @@
       <img src="https://img.shields.io/github/stars/the-shivam-gupta?style=social" alt="GitHub stars" />
    </a>
 </div>
+<br>
+<div align="center">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthe-shivam-guptal%2Fthe-shivam-gupta&label=VISITORS&countColor=%FFFFFF&labelColor=%2300FF00">
+<!-- <h1 align="center"></h1>  -->
+</div>
 
 
 ## About Me
