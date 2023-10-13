@@ -38,6 +38,17 @@ Hi there! I'm Shivam Gupta, a passionate developer and open-source enthusiast. I
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
+## Recent Projects
+
+Here are some of the recent projects I've been working on:
+
+- [Labour Services](https://github.com/ShubhamKhale/labourServices): This is a web application that provides services such as ELectrician, plumber etc.
+
+- [HMS](https://github.com/the-shivam-gupta/HMS): This project is based on a Hospital Management System and provides an insight into the patient and doctor details.
+
+Feel free to explore these projects and check out their repositories for more details and code.
+
+
 ## Contributions and Open Source Involvement
 
 I'm actively involved in open-source projects and have contributed to several projects, including:
