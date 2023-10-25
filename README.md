@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Greetings! 👋</h1>
-  <p>Welcome to my GitHub profile. I'm here to code, learn, and collaborate. Let's build cool stuff together!</p>
+  <h1>Namaste! 🙏</h1>
+  <p>Welcome to my GitHub profile. I'm passionate about coding, eager to learn, and excited to collaborate. Let's team up to create something amazing!</p>
 </div>
 
 <div align="center">
@@ -81,4 +81,4 @@ I'm actively involved in open-source projects and have contributed to several pr
   </tr>
 </table>
 
-Thanks for visiting my GitHub profile! Feel free to explore my projects and reach out to me if you'd like to collaborate or have any questions.
+Thank you for taking the time to visit my GitHub profile! Please, feel at ease exploring my projects, and don't hesitate to connect if you're interested in collaborating or have any queries.
