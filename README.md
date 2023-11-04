@@ -4,65 +4,76 @@
 </div>
 
 <div align="center">
-   <a href="https://github.com/the-shivam-gupta">
-      <img src="https://img.shields.io/github/followers/the-shivam-gupta?label=Followers&style=social" alt="GitHub followers" />
-   </a>
-   <a href="https://github.com/the-shivam-gupta">
-      <img src="https://img.shields.io/github/stars/the-shivam-gupta?style=social" alt="GitHub stars" />
-   </a>
-</div>
-<br>
-<div align="center">
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthe-shivam-guptal%2Fthe-shivam-gupta&label=VISITORS&countColor=%FFFFFF&labelColor=%2300FF00">
-<!-- <h1 align="center"></h1>  -->
 </div>
 
+<div align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/the-shivam-gupta/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
+  <a href="mailto:shivamgupta02022002@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <a href="https://twitter.com/ShivamGupt97925"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" alt="" ></a>
+  <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="shivam" ></a>
+</div>
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## About Me
 
-Hi there! I'm Shivam Gupta, a passionate developer and open-source enthusiast. I love to explore new technologies and build cool projects.
+Hi there! I'm Shivam Gupta, a passionate developer and open-source enthusiast. I love to explore new technologies 🧑🏻‍💻 and build cool projects.
 
 - 🔭 I’m currently working on [Portfolio](https://the-shivam-gupta.github.io/)
 - 🌱 I’m currently learning [python](https://github.com/the-shivam-gupta/learning-path)
 - 👯 I’m looking to collaborate on interesting projects.
 
 ## Skills and Technologies
-<p align="left">
- <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
+
+| Skills        | Labels        |
+|-----------------|---------------|
+| Languages | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> |
+| Frameworks       | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> |
+| Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> |
+| Database | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> |
+| Services & Tools| <a href="https://github.com/the-shivam-gupta"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> |
+| IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /> <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=green" /> |
+| Hosting         | <img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> |
+| Design Tools    |  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> |
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## Recent Projects
 
 Here are some of the recent projects I've been working on:
 
-- [Labour Services](https://github.com/ShubhamKhale/labourServices): This is a web application that provides services such as ELectrician, plumber etc.
+- [Labour Services](https://github.com/ShubhamKhale/labourServices) : This is a web application that provides services such as ELectrician, plumber etc.
 
-- [HMS](https://github.com/the-shivam-gupta/HMS): This project is based on a Hospital Management System and provides an insight into the patient and doctor details.
+- [HMS](https://github.com/the-shivam-gupta/HMS) : This project is based on a Hospital Management System and provides an insight into the patient and doctor details.
+
+- [MedGuide](https://github.com/PriyansuMaurya/MedGuide) : This is a tool for clinicians to diagnose diseases through patient symptom-based questioning.
 
 Feel free to explore these projects and check out their repositories for more details and code.
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## Contribution Graph
+<div align=""center>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-shivam-gupta&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+</div>
 
 ## Contributions and Open Source Involvement
 
-I'm actively involved in open-source projects and have contributed to several projects, including:
+| Projects        | Implementation        |
+|-----------------|---------------|
+| [LinksHub](https://www.linkshub.dev/) | I contributed by adding styles and including the missing card description. |
+| [AI-fusion](https://aifusion.vercel.app/)       | I helped to arrange the cards in alphabetical order, ensuring that they were properly sorted. |
+| [NSCC-BPIT](https://github.com/NSCC-BPIT/NSCC-BPIT-Website) | I updated the IoT section with new features and improved the page design. |
+| [scripts.sh](https://github.com/vaibhavx42/scripts.sh) | Made a README.md file for the basic calculator. |
+| [Abbreve](https://github.com/Njong392/Abbreve) | Added a new abbreviation to the site. |
+| [react-native-authkit](https://github.com/Asad520/react-native-authkit) | Added a README.md file for React Native RTK Query Authentication Template with Styled Components. |
+| [portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) | I have created an issue and added my personal portfolio. |
 
-- [Rupali Haldiya](https://www.linkshub.dev/) - Contributed by adding styles and also the missing card descrption.
-- [Priyanshu Maurya](https://aifusion.vercel.app/) - Collaborated on sorting the elements in the alphabetical order.
 
-
-## Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-shivam-gupta/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShivamGupt97925)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://the-shivam-gupta.github.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](shivamgupta02022002@gmail.com)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## GitHub Stats
 
@@ -81,4 +92,6 @@ I'm actively involved in open-source projects and have contributed to several pr
   </tr>
 </table>
 
-Thank you for taking the time to visit my GitHub profile! Please, feel at ease exploring my projects, and don't hesitate to connect if you're interested in collaborating or have any queries.
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<p align="center">Thanks for visiting my GitHub profile! Feel free to explore my projects and reach out if you'd like to collaborate or have any questions. 😊</p>
