@@ -92,6 +92,15 @@ Feel free to explore these projects and check out their repositories for more de
   </tr>
 </table>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+# <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Connect with me
+
+<p align = "center">
+    <a href="https://www.linkedin.com/in/the-shivam-gupta/" target="_blank"><img alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> &nbsp&nbsp&nbsp
+  <a href="" target="_blank"><img alt="Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a> &nbsp&nbsp&nbsp
+  <a href="https://twitter.com/ShivamGupt97925" target="_blank"><img alt="Twitter" width="40px" src="https://cdn-icons-png.flaticon.com/512/3670/3670211.png"></a> &nbsp&nbsp&nbsp
+    <a href="mailto:shivamgupta02022002@gmail.com" target="_blank"><img alt="Gmail" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>&nbsp&nbsp&nbsp
+</p> 
+
+
 
 <p align="center">Thanks for visiting my GitHub profile! Feel free to explore my projects and reach out if you'd like to collaborate or have any questions. 😊</p>
