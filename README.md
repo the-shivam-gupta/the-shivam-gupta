@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=8A2BE2&size=24&center=true&lines=%Welcome+to+my+GitHub+profile%" alt="Typing Animation">
+</p>
+
 <div align="center">
   <h1>Namaste! 🙏</h1>
-  <p>Welcome to my GitHub profile. I'm passionate about coding, eager to learn, and excited to collaborate. Let's team up to create something amazing!</p>
+  <p>I'm passionate about coding, eager to learn, and excited to collaborate. Let's team up to create something amazing!</p>
 </div>
 
 <div align="center">
