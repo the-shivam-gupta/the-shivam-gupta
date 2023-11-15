@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=8A2BE2&size=24&center=true&lines=%Welcome+to+my+GitHub+profile%" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=3399FF&size=24&center=true&lines=%Welcome+to+my+GitHub+profile%" alt="Typing Animation">
 </p>
 
 <div align="center">
@@ -20,7 +20,7 @@
 </div>
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <img align="right" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="40%"  />
 
@@ -78,8 +78,7 @@ Feel free to explore these projects and check out their repositories for more de
 | [react-native-authkit](https://github.com/Asad520/react-native-authkit) | Added a README.md file for React Native RTK Query Authentication Template with Styled Components. |
 | [portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) | I have created an issue and added my personal portfolio. |
 
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## GitHub Stats
 
