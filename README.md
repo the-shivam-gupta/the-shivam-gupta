@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=3399FF&size=24&center=true&lines=%Welcome+to+my+GitHub+profile%" alt="Typing Animation">
 </p>
 
+![banner](https://github.com/the-shivam-gupta/the-shivam-gupta/blob/main/Banner.png)
+
 <div align="center">
   <h1>Namaste! 🙏</h1>
   <p>I'm passionate about coding, eager to learn, and excited to collaborate. Let's team up to create something amazing!</p>
