@@ -91,9 +91,19 @@ Feel free to explore these projects and check out their repositories for more de
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-shivam-gupta&theme=dark&hide_border=false" />
       </p>
     </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
     <td>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-shivam-gupta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+        <img src="https://api.githubtrends.io/user/svg/the-shivam-gupta/repos?time_range=one_year&group=other&loc_metric=changed&theme=bright_lights"/>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://api.githubtrends.io/user/svg/the-shivam-gupta/langs?time_range=one_year&use_percent=True&theme=bright_lights"/>
       </p>
     </td>
   </tr>
