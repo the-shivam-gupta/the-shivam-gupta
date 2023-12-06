@@ -13,13 +13,6 @@
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthe-shivam-guptal%2Fthe-shivam-gupta&label=VISITORS&countColor=%FFFFFF&labelColor=%2300FF00">
 </div>
 
-<div align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/the-shivam-gupta/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
-  <a href="mailto:shivamgupta02022002@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-  <a href="https://twitter.com/ShivamGupt97925"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" alt="" ></a>
-  <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="shivam" ></a>
-</div>
 <br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -79,6 +72,7 @@ Feel free to explore these projects and check out their repositories for more de
 | [Abbreve](https://github.com/Njong392/Abbreve) | Added a new abbreviation to the site. |
 | [react-native-authkit](https://github.com/Asad520/react-native-authkit) | Added a README.md file for React Native RTK Query Authentication Template with Styled Components. |
 | [portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) | I have created an issue and added my personal portfolio. |
+| [Dev_Profiles](https://github.com/Gyanthakur/Dev_Profiles) | Fixed some content that were not responsive for the small screen size. |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
