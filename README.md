@@ -73,6 +73,8 @@ Feel free to explore these projects and check out their repositories for more de
 | [react-native-authkit](https://github.com/Asad520/react-native-authkit) | Added a README.md file for React Native RTK Query Authentication Template with Styled Components. |
 | [portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) | I have created an issue and added my personal portfolio. |
 | [Dev_Profiles](https://github.com/Gyanthakur/Dev_Profiles) | Fixed some content that were not responsive for the small screen size. |
+| [Drifty](https://github.com/SaptarshiSarkar12/Drifty) | Made the webpage look better on the Galaxy Fold phone by changing some styles. |
+| [Code-Magic](https://github.com/Dun-sin/Code-Magic) | Text responsiveness issues identified for screen sizes below 320px. |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
