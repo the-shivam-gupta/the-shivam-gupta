@@ -21,11 +21,11 @@
 
 ## About Me
 
-Hi there! I'm Shivam Gupta, a passionate developer and open-source enthusiast. I love to explore new technologies 🧑🏻‍💻 and build cool projects.
+Hello! I'm Shivam Gupta, a fourth-year Computer Science student. I enjoy discovering new technologies 🧑🏻‍💻 and creating interesting projects.
 
 - 🔭 I’m currently working on [Portfolio](https://the-shivam-gupta.github.io/)
-- 🌱 I’m currently learning [python](https://github.com/the-shivam-gupta/learning-path)
-- 👯 I’m looking to collaborate on interesting projects.
+- 🌱 I'm presently an engaged contributor to open-source projects.
+- 👯 I'm seeking collaboration on engaging projects and expanding my professional network.
 
 ## Skills and Technologies
 
@@ -51,6 +51,8 @@ Here are some of the recent projects I've been working on:
 - [HMS](https://github.com/the-shivam-gupta/HMS) : This project is based on a Hospital Management System and provides an insight into the patient and doctor details.
 
 - [MedGuide](https://github.com/PriyansuMaurya/MedGuide) : This is a tool for clinicians to diagnose diseases through patient symptom-based questioning.
+
+- [Tailwind-CLone](https://github.com/the-shivam-gupta/tailwind-clone) : I'm working on this project to enhance my frontend skills and knowledge.
 
 Feel free to explore these projects and check out their repositories for more details and code.
 
