@@ -23,7 +23,7 @@
 
 Hello! I'm Shivam Gupta, a fourth-year Computer Science student. I enjoy discovering new technologies 🧑🏻‍💻 and creating interesting projects.
 
-- 🔭 I’m currently working on [Portfolio](https://the-shivam-gupta.github.io/)
+- 🔭 [Portfolio](https://the-shivam-gupta.github.io/)
 - 🌱 I'm presently an engaged contributor to open-source projects.
 - 👯 I'm seeking collaboration on engaging projects and expanding my professional network.
 
