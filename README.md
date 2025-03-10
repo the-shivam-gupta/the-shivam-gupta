@@ -21,7 +21,7 @@
 
 ## About Me
 
-Hello! I'm Shivam Gupta, a fourth-year Computer Science student. I enjoy discovering new technologies 🧑🏻‍💻 and creating interesting projects.
+Hello! I'm Shivam Gupta, a Computer Science student. I enjoy discovering new technologies 🧑🏻‍💻 and creating interesting projects.
 
 - 🔭 [Portfolio](https://the-shivam-gupta.github.io/)
 - 🌱 I'm presently an engaged contributor to open-source projects.
