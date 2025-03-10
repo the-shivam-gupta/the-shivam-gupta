@@ -52,7 +52,7 @@ Here are some of the recent projects I've been working on:
 
 - [MedGuide](https://github.com/PriyansuMaurya/MedGuide) : This is a tool for clinicians to diagnose diseases through patient symptom-based questioning.
 
-- [Tailwind-CLone](https://github.com/the-shivam-gupta/tailwind-clone) : I'm working on this project to enhance my frontend skills and knowledge.
+- [Tailwind-Clone](https://github.com/the-shivam-gupta/tailwind-clone) : I'm working on this project to enhance my frontend skills and knowledge.
 
 Feel free to explore these projects and check out their repositories for more details and code.
 
