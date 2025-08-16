@@ -5,7 +5,7 @@
 ![banner](https://github.com/the-shivam-gupta/the-shivam-gupta/blob/main/Banner.png)
 
 <div align="center">
-  <h1>Radhe Radhe 🙏</h1>
+  <h1>Radhe Radhe 🦚🪈</h1>
   <p>I'm passionate about coding, eager to learn, and excited to collaborate. Let's team up to create something amazing!</p>
 </div>
 
